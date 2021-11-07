@@ -5,4 +5,4 @@ Pytorch框架，采用CNN和ResNet18两种网络结构，准确率可达90%
 
 下面是我的实验结果。
 
-
+![image](https://github.com/wangshushu0213/Cifar10-/blob/main/result.png)
